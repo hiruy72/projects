@@ -1,0 +1,25 @@
+#label1{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    margin: 40px;
+
+}
+#div1{
+    text-align: center;
+
+}
+.buttons{
+    font-size: 2em;
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+    color: #fff;
+    background-color: aqua;
+    transition: background-color 0.3s;
+    border-radius: 5px;
+}
+.buttons:hover{
+    background-color: #00bfff;
+    opacity: 0.8;
+}
