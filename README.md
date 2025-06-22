@@ -1,12 +1,16 @@
- Counter App
+# Simple Counter App
 
-A simple web-based counter application built using **HTML**, **CSS**, and **JavaScript**.
+A basic counter app built using "HTML", "CSS", and "JavaScript". You can increase, decrease, or reset the count with a click of a button.
 
-## 🖥️ Demo
+## Features
 
-The app displays a numeric counter and includes three buttons:
-- **Increment**: Increases the counter by 1
-- **Decrement**: Decreases the counter by 1
-- **Reset**: Resets the counter to 0
+- Increase the counter
+- Decrease the counter
+- Reset the counter to zero
 
-## 📁 Project Structure
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
